@@ -111,5 +111,5 @@ Setiap kali Anda mengirim transaksi, sebuah catatan akan otomatis ditambahkan ke
 ## ⚠️ Peringatan Penting
 
 -   **Hanya Untuk Tujuan Edukasi & Testing**: Skrip ini dirancang untuk tujuan pembelajaran dan pengujian.
--   **Gunakan Jaringan Testnet**: Selalu gunakan di jaringan **Sepolia**. Dapatkan ETH gratis dari faucet seperti [sepoliafaucet.com](https://sepoliafaucet.com).
+-   **Gunakan Jaringan Testnet**: Selalu gunakan di jaringan **Sepolia**.
 -   **JANGAN GUNAKAN WALLET UTAMA**: Untuk keamanan, selalu gunakan wallet baru yang dibuat khusus untuk development atau testing. Jangan pernah menggunakan *seed phrase* dari wallet utama Anda.
