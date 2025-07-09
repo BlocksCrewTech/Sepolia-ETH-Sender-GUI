@@ -65,8 +65,8 @@ Aplikasi ini memerlukan API Key dari [Alchemy](https://alchemy.com) untuk terhub
     word1 word2 word3 word4 word5 word6 word7 word8 word9 word10 word11 word12
     ```
 
-2.  **Siapkan Alamat Tujuan**: Buat file `addresses.txt` dan isi dengan semua alamat penerima (satu alamat per baris).
-    *Contoh `addresses.txt`:*
+2.  **Siapkan Alamat Tujuan**: Buat file `address.txt` dan isi dengan semua alamat penerima (satu alamat per baris).
+    *Contoh `address.txt`:*
     ```
     0x1111111111111111111111111111111111111111
     0x2222222222222222222222222222222222222222
